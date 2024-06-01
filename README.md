@@ -12,6 +12,7 @@ A junior software developer with a knack for turning caffeine into code and debu
 ### What I Do When I'm Not Coding
 - 🐱 Explaining to my cats why they can't sit on my keyboard while I'm coding
 - 💪 Contemplating whether to go to the gym or not (spoiler: the couch usually wins)
+- 🍓 Binging on blueberries and strawberries and edamame beans like there's no tomorrow
   
 ### My Projects 🚀
 Here's a selection of some projects that I swear were bug-free when I last checked:
