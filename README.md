@@ -20,7 +20,7 @@ Here's a selection of some projects that I swear were bug-free when I last check
 A full-stack news aggregation platform where you can rate, comment, and discuss news articles. Basically, Reddit but with fewer trolls (hopefully). Built with React, JavaScript, HTML, CSS, and PostgreSQL. [Check it out here!](https://github.com/natccc/fe-nc-news)
 
 #### 🐶 DogGO
-A mobile app for planning pet-friendly trips. If you see a dog on a beach in your next vacation, you can thank me. Built with React Native, Expo, TypeScript, and Supabase. [Take a look!](https://github.com/zacharvey88/doggo)
+A mobile app for planning pet-friendly trips. If you see a dog on a beach in your next vacation, you can thank me. Built with React Native, Expo, TypeScript, and Supabase. [Take a look!](https://github.com/natccc/doggo)
 
 
 
