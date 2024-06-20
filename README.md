@@ -24,6 +24,5 @@ A mobile app for planning pet-friendly trips. If you see a dog on a beach in you
 
 
 ### 📊 Leetcode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/natccc)
----
+![Leetcode Stats](https://leetcard.jacoblin.cool/natccc?ext=activity)
 
