@@ -24,11 +24,7 @@ A mobile app for planning pet-friendly trips. If you see a dog on a beach in you
 
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=natccc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=natccc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natccc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+### 📊 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/natccc)
 ---
 
