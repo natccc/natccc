@@ -1,6 +1,6 @@
 # Hi there! I'm Natalie 👋
 
-A junior software developer recently relocated from Hong Kong 🇭🇰 to Manchester, UK 🇬🇧.
+A junior software developer based in Manchester, UK 🇬🇧.
 - 🔭 Currently working on: CS50x
 - 🌱 Learning: How to juggle, because life is a circus anyway
 - 👩‍💻 Projects: Working on various personal projects to apply my software engineering skills.
