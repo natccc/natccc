@@ -16,3 +16,4 @@ A full-stack news aggregation platform where you can rate, comment, and discuss 
 #### 🐶 DogGO
 A mobile app for planning pet-friendly trips. If you see a dog on a beach in your next vacation, you can thank me. Built with React Native, Expo, TypeScript, and Supabase. [Take a look!](https://github.com/natccc/doggo)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natccc&layout=compact)
