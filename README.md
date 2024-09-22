@@ -16,12 +16,12 @@ A junior software developer based in Manchester, UK 🇬🇧.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Currently Exploring: Python 🐍
 ### What I Do When I'm Not Coding
 - 🐱 Explaining to my cats why they can't sit on my keyboard while I'm coding
 - 💪 Daily workout at the gym
   
 ### My Projects 🚀
-Here's a selection of some projects that I swear were bug-free when I last checked:
 #### 📰 NC News
 A full-stack news aggregation platform where you can rate, comment, and discuss news articles. Basically, Reddit but with fewer trolls (hopefully). Built with React, JavaScript, HTML, CSS, and PostgreSQL. [Check it out here!](https://github.com/natccc/fe-nc-news)
 
