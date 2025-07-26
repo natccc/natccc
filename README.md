@@ -16,10 +16,6 @@ A junior software developer based in Manchester, UK 🇬🇧.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Currently Exploring: Python 🐍
-### What I Do When I'm Not Coding
-- 🐱 Explaining to my cats why they can't sit on my keyboard while I'm coding
-- 💪 Daily workout at the gym
   
 ### My Projects 🚀
 #### 📰 NC News
