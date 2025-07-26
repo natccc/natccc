@@ -2,7 +2,7 @@
 
 A junior software developer based in Manchester, UK 🇬🇧.
 
-### 💻 Tech Stack:
+### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
@@ -16,8 +16,8 @@ A junior software developer based in Manchester, UK 🇬🇧.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-  
-### My Projects 🚀
+### Currently working on: The Odin Project Foundations Course  
+### My Projects 
 #### 📰 NC News
 A full-stack news aggregation platform where you can rate, comment, and discuss news articles. Basically, Reddit but with fewer trolls (hopefully). Built with React, JavaScript, HTML, CSS, and PostgreSQL. [Check it out here!](https://github.com/natccc/fe-nc-news)
 
