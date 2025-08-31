@@ -2,6 +2,8 @@
 
 A junior software developer based in Manchester, UK 🇬🇧.
 
+### Currently working on: The Odin Project
+
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
