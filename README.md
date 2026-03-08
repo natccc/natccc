@@ -1,8 +1,6 @@
 # Hi there! I'm Natalie 👋
 
-A junior software developer based in Manchester, UK 🇬🇧.
-
-### Currently working on: The Odin Project
+QA Engineer/developer enthusiast based in Manchester, UK.
 
 ### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -25,4 +23,3 @@ A full-stack news aggregation platform where you can rate, comment, and discuss 
 #### 🐶 DogGO
 A mobile app for planning pet-friendly trips. If you see a dog on a beach in your next vacation, you can thank me. Built with React Native, Expo, TypeScript, and Supabase. [Take a look!](https://github.com/natccc/doggo)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natccc&layout=compact)
