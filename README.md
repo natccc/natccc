@@ -1,25 +1,60 @@
 # Hi there! I'm Natalie 👋
 
-QA Engineer/developer enthusiast based in Manchester, UK.
+QA Engineer specialising in test automation | Playwright | TypeScript | Manchester, UK
 
-### Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+## About Me
 
-### My Projects 
-#### 📰 NC News
-A full-stack news aggregation platform where you can rate, comment, and discuss news articles. Basically, Reddit but with fewer trolls (hopefully). Built with React, JavaScript, HTML, CSS, and PostgreSQL. [Check it out here!](https://github.com/natccc/fe-nc-news)
+I'm a QA Engineer with hands-on experience in test automation and functional testing
+across web, mobile (React Native), and API-based applications in a fintech environment.
+Previously a physiotherapist for 5 years — I bring systematic analytical thinking and
+attention to detail to everything I test.
 
-#### 🐶 DogGO
-A mobile app for planning pet-friendly trips. If you see a dog on a beach in your next vacation, you can thank me. Built with React Native, Expo, TypeScript, and Supabase. [Take a look!](https://github.com/natccc/doggo)
+Currently building automation frameworks with Playwright and TypeScript, exploring
+AI-assisted testing with Playwright MCP, and always looking to embed quality earlier
+in the development lifecycle.
 
+## Tech Stack
+
+### Testing & QA
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white)
+
+## Projects
+
+### 🎭 Playwright Saucedemo
+End-to-end Playwright test suite in TypeScript using Page Object Model.
+Covers key user journeys on the Saucedemo e-commerce demo site with
+GitHub Actions CI configured to run on every push.
+[View repo](https://github.com/natccc/playwright-saucedemo)
+
+### 📰 NC News
+A full-stack news aggregation platform where you can rate, comment, and discuss
+news articles. Basically Reddit but with fewer trolls (hopefully). Built with
+React, JavaScript, HTML, CSS, and PostgreSQL.
+[Check it out here!](https://natalie-chan.vercel.app/)
+
+### 🐶 DogGO
+A mobile app for planning pet-friendly trips. If you see a dog on a beach in
+your next vacation, you can thank me. Built with React Native, Expo,
+TypeScript, and Supabase.
+[Take a look!](https://github.com/natccc/doggo)
+
+## Certifications
+
+- 🏆 ISTQB Certified Tester Foundation Level (Feb 2026)
+- ☁️ AWS Certified Cloud Practitioner (Aug 2024)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nataliechc)
